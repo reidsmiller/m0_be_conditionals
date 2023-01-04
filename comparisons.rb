@@ -61,20 +61,24 @@ puts "Is number_students less than or equal to 21?", number_students <= 20
 
 puts 4 < 9
 #YOU DO: Explain.
+# Evaluating for if 4 is less than 9. Output should be true.
 
 books = 3
 puts 4 < books
 # YOU DO: Explain.
+# This evaluates for if 4 is greater than the stored integer in the variable books. Should output false.
 
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
+# This evaluates whether the varibale friends contains an integer that is greater than the variable siblings. Should output true.
 
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
+#  Evaluates for if variable attendees does not equal variable stored in meals. This should output true.
 
 
 #-------------------
