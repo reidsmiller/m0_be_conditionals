@@ -1,5 +1,4 @@
-integer = 5
-
+integer = 11
 
 if integer % 3 == 0 && integer % 5 == 0
     puts "FizzBuzz"
